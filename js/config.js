@@ -16,7 +16,7 @@ const CONFIG = {
       category: 'General',
       name: 'Mail',
       key: 'm',
-      url: 'https://gmail.com',
+      url: 'https://app.skiff.com/mail/inbox',
       search: '/#search/text={}',
       color: 'linear-gradient(135deg, #dd5145, #dd5145)',
       icon: 'mail',

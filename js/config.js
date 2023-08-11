@@ -9,7 +9,7 @@ const CONFIG = {
   commands: [{
       name: 'Brave',
       key: '*',
-      url: 'https://search.brave.com',
+      url: 'https://search.brave.com/search',
       search: '/?q={}'
     },
     {
